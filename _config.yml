@@ -1,8 +1,8 @@
 # Your Website
 
-title: Sheepicon
+title: lp-st
 description: Easily copy links to emotes and other image links with a click!
-baseurl: "/sheepicon" # the subpath of your site, e.g. /blog
+baseurl: "/lp-st" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
